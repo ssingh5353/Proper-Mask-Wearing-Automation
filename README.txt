@@ -1,9 +1,19 @@
 In order to be able to run the Jupyter Notebook completely, please complete the following:
 
+Make sure your python version is >= 
+
 Install Anaconda - 
 1. Visit https://www.anaconda.com/products/individual
 2. Click on the "Download" button
 3. Run the downloaded file and use all default settings with installation
+
+Install cv2 -
+1. Open terminal
+2. Run the command "conda install -c menpo opencv"
+
+Install tensorflow -
+1. Open terminal
+2. Run the command "pip install tensorflow"
 
 Once you have the software downloaded, please download the repository locally. You can now launch the file.
 
