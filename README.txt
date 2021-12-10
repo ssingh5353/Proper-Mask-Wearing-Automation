@@ -5,6 +5,8 @@ Install Anaconda -
 2. Click on the "Download" button
 3. Run the downloaded file and use all default settings with installation
 
+To install the cv2 and tensorflow libraries, you will need pip. Steps to install pip can be found at: https://pip.pypa.io/en/stable/installation/
+
 Install cv2 -
 1. Open terminal
 2. Run the command "pip install opencv-python"
@@ -13,7 +15,7 @@ Install tensorflow -
 1. Open terminal
 2. Run the command "pip install tensorflow"
 
-Once you have the software downloaded, please download the repository locally. You can now launch the file.
+Once you have the softwares downloaded, please download the repository locally. You can now launch the file.
 
 To launch the file -
 1. Use terminal to navigate to the directory with the file Proper_Mask_Wearing_Detection_Automation.ipynb
