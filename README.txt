@@ -1,7 +1,5 @@
 In order to be able to run the Jupyter Notebook completely, please complete the following:
 
-Issues may arise if your python version is >= 3.9. If this is the case, you may need to downgrade to <= 3.8.x
-
 Install Anaconda - 
 1. Visit https://www.anaconda.com/products/individual
 2. Click on the "Download" button
@@ -9,7 +7,7 @@ Install Anaconda -
 
 Install cv2 -
 1. Open terminal
-2. Run the command "conda install -c menpo opencv"
+2. Run the command "pip install opencv-python"
 
 Install tensorflow -
 1. Open terminal
