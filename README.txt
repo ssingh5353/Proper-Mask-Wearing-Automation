@@ -1,6 +1,6 @@
 In order to be able to run the Jupyter Notebook completely, please complete the following:
 
-Make sure your python version is >= 
+Issues may arise if your python version is >= 3.9. If this is the case, you may need to downgrade to <= 3.8.x
 
 Install Anaconda - 
 1. Visit https://www.anaconda.com/products/individual
